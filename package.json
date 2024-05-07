@@ -1,0 +1,22 @@
+{
+  "name": "random-str-msg-nicopaint",
+  "version": "1.0.0",
+  "description": "Random string message in the console by NicoPaint",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "NPM",
+    "Git",
+    "Command Terminal",
+    "Node"
+  ],
+  "author": "Nicolas Pinto <felipepinve@gamil.com>",
+  "license": "MIT",
+  "bin": {
+    "random-str-msg-NicoPaint": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
